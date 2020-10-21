@@ -1,3 +1,4 @@
 # Hacktober-fest
 
-learn about open source
+
+hi everyone! welcome to my account:)
